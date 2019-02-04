@@ -1,0 +1,37 @@
+module.exports.BASE_WORKERS_DETAILS = [
+    {
+        email:'email@email.com',
+        key:1,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:2,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:3,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:4,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:5,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:6,
+        alias:'Alias'
+    },
+    {
+        email:'email@email.com',
+        key:7,
+        alias:'Alias'
+    }
+]
